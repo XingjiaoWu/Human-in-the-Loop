@@ -12,6 +12,47 @@
 - <a name=""></a> Human-in-the-Loop Low-Shot Learning(**TNNLS**) [[paper](https://ieeexplore.ieee.org/document/9171485)] 
 - <a name=""></a> Human-in-the-loop differential subspace search in high-dimensional latent space(**TOG**) [[paper](https://dl.acm.org/doi/abs/10.1145/3386569.3392409)] 
 
+- <a name=""></a> A human-in-the-loop manufacturing control architecture for the next generation of production systems(**Journal of Manufacturing Systems**) [[paper](https://www.sciencedirect.com/science/article/pii/S0278612520300029)] 
+- <a name=""></a> A human-in-the-loop deep learning paradigm for synergic visual evaluation in children(**Neural Networks**) [[paper](https://www.sciencedirect.com/science/article/pii/S0893608019303259)] 
+- <a name=""></a> Human-in-the-Loop Control Using Euler Angles(**Journal of Intelligent & Robotic Systems **) [[paper](https://link.springer.com/article/10.1007/s10846-019-01058-2)] 
+- <a name=""></a> Explanations for human-on-the-loop: a probabilistic model checking approach(** International Symposium on Software Engineering for Adaptive and Self-Managing Systems**) [[paper](https://dl.acm.org/doi/abs/10.1145/3387939.3391592)] 
+- <a name=""></a> Human in the loop(**Journal of Information Technology**) [[paper](https://doi.org/10.1177/0268396220946055)] 
+- <a name=""></a> ISABELA–A Socially-Aware Human-in-the-Loop Advisor System(**Online Social Networks and Media
+**) [[paper](https://www.sciencedirect.com/science/article/pii/S246869642030001X)] 
+- <a name=""></a> Engineering human-in-the-loop interactions in cyber-physical systems(**Information and Software Technology
+**) [[paper](https://www.sciencedirect.com/science/article/pii/S0950584920301166?casa_token=KFOF-QWsirYAAAAA:lUotuyOUzld-LMrRaO9fz9Y4acNjl2_IWiWKW1KBGtzU9V9Rr-QDW6j4x5KYnOn7Mi5k67gmNw)] 
+- <a name=""></a> DeepDrummer : Generating Drum Loops using Deep Learning and a Human in the Loop(**arxiv**) [[paper](https://arxiv.org/abs/2008.04391)] 
+- <a name=""></a> STORIUM: A Dataset and Evaluation Platform for Machine-in-the-Loop Story Generation(**EMNLP**) [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.525.pdf)] 
+- <a name=""></a> FIND: Human-in-the-Loop Debugging Deep Text Classifiers(**arxiv**) [[paper](https://arxiv.org/abs/2010.04987)] 
+- <a name=""></a> Online Replanning With Human-in-the-Loop for Non-Prehensile Manipulation in Clutter — A Trajectory Optimization Based Approach(**IEEE Robotics and Automation Letters**) [[paper](https://ieeexplore.ieee.org/abstract/document/9131745)] 
+- <a name=""></a> Human-in-the-Loop-Aided Privacy-Preserving Scheme for Smart Healthcare(**-**) [[paper](https://ieeexplore.ieee.org/abstract/document/9107393)] 
+- <a name=""></a> A Human-in-the-Loop Probabilistic CNN-Fuzzy Logic Framework for Accident Prediction in Vehicular Networks(**IEEE Sensors Journal**) [[paper](https://ieeexplore.ieee.org/abstract/document/9194758)] 
+- <a name=""></a> FIND: Human-in-the-Loop Debugging Deep Text Classifiers(**EMNLP**) [[paper](https://www.aclweb.org/anthology/2020.emnlp-main.24.pdf)] 
+- <a name=""></a> Human-in-the-loop Artificial Intelligence for Fighting Online
+Misinformation: Challenges and Opportunities(**-**) [[paper](https://www.researchgate.net/profile/Damiano_Spina/publication/345264315_Human-in-the-loop_Artificial_Intelligence_for_Fighting_Online_Misinformation_Challenges_and_Opportunities/links/5fa22fafa6fdccfd7b9b77ba/Human-in-the-loop-Artificial-Intelligence-for-Fighting-Online-Misinformation-Challenges-and-Opportunities.pdf)] 
+- <a name=""></a> Human-in-the-loop optimization of wearable robots to reduce the human metabolic energy cost in physical movements(**Robotics and Autonomous Systems
+**) [[paper](https://www.sciencedirect.com/science/article/pii/S0921889019308036?casa_token=kG5skWOdaMAAAAAA:rmMILq68kRziwuPKtGz1eDCLUJr9PtuyZYgzCCh-Nc8C6rehmL7eBAQSrukpI7dORkXQUdGz9w)] 
+- <a name=""></a> A system for human-in-the-loop simulation of industrial collaborative robot applications(**CASE**) [[paper](https://ieeexplore.ieee.org/abstract/document/9216766)] 
+- <a name=""></a> A Human-in-the-Loop Approach to Malware Author Classification(**CIKM**) [[paper](https://dl.acm.org/doi/abs/10.1145/3340531.3417467)] 
+- <a name=""></a> Human-in-the-Loop Conversation Agent for Customer Service(**NLDB**) [[paper](https://link.springer.com/chapter/10.1007/978-3-030-51310-8_25)] 
+- <a name=""></a> Human-in-the-Loop Schema Inference for Massive JSON Datasets(**EDBT**) [[paper](https://hal.archives-ouvertes.fr/hal-02560196/)] 
+- <a name=""></a> Towards transparent human-in-the-loop
+classification of fraudulent web shops(** Legal Knowledge and Information Systems**) [[paper](https://nationaal-politielab.sites.uu.nl/wp-content/uploads/sites/536/2020/12/Odekerken_Bex-TransparentHumanintheLoopWebshops.pdf)] 
+- <a name=""></a> Human-in-the-loop AI in government: a case study(**IUI**) [[paper](https://dl.acm.org/doi/abs/10.1145/3377325.3377489)] 
+- <a name=""></a> Thermal comfort management leveraging deep reinforcement learning and human-in-the-loop(**Conference on Human-Machine Systems (ICHMS)**) [[paper](https://ieeexplore.ieee.org/abstract/document/9209555)] 
+- <a name=""></a> Objective Measurement Assessment of Departure Advisories for Ramp Controllers from a Human-In-The-Loop Simulation(**AIAA J**) [[paper](https://arc.aiaa.org/doi/abs/10.2514/6.2020-3204)] 
+- <a name=""></a> Generative Melody Composition with Human-in-the-Loop Bayesian Optimization(**arxiv**) [[paper](https://arxiv.org/abs/2010.03190)] 
+- <a name=""></a> Get a Human-In-The-Loop: Feature Engineering via Interactive Visualizations(**-**) [[paper](https://repository.ubn.ru.nl/bitstream/handle/2066/222140/222140.pdf?sequence=1)] 
+- <a name=""></a> Human-in-the-Loop AI for Analysis of Free Response Facial Expression Label Sets(**IVA**) [[paper](https://dl.acm.org/doi/abs/10.1145/3383652.3423892)] 
+- <a name=""></a> Digital Human-in-the-Loop Framework(**HCI**) [[paper](https://link.springer.com/chapter/10.1007/978-3-030-49904-4_2)] 
+- <a name=""></a> EasierPath: An Open-Source Tool for Human-in-the-Loop Deep Learning of Renal Pathology(** Interpretable and Annotation-Efficient Learning for Medical Image Computing**) [[paper](https://link.springer.com/chapter/10.1007/978-3-030-61166-8_23#citeas)] 
+- <a name=""></a> Information Preparation with the Human in the Loop(**PHD**) [[paper](https://tuprints.ulb.tu-darmstadt.de/11839/)] 
+- <a name=""></a> Human-in-the-Loop Error Precursor Detection using Language Translation Modeling of HMI States(**SMC**) [[paper](https://ieeexplore.ieee.org/abstract/document/9283392)] 
+- <a name=""></a> A Dynamic Human-in-the-loop Recommender System for
+Evidence-based Clinical Staging of COVID-19(**(HealthRecSys’20**) [[paper](http://ceur-ws.org/Vol-2684/4-paginated.pdf)] 
+- <a name=""></a> Human-in-the-loop Techniques in Machine Learning(**ICDE**) [[paper](http://sites.computer.org/debull/A20sept/p37.pdf)] 
+- <a name=""></a> Human models in human-in-the-loop control systems(**Journal of Intelligent & Fuzzy Systems**) [[paper](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs179548)] 
+- <a name=""></a> Designing for the Human in the Loop: Transparency and Control in Interactive Machine Learning(**PHD**) [[paper](https://drum.lib.umd.edu/handle/1903/26063)] 
 
 
 
@@ -103,7 +144,6 @@
 
 ### 1998
 - <a name=""></a> Human-in-the-loop control with majority vote neural networks(**SMC**) [[paper](https://ieeexplore.ieee.org/abstract/document/142097)] 
--
 
 
 ### 1990
