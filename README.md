@@ -11,7 +11,6 @@
 - <a name=""></a> Human-in-the-loop Outlier Detection(**SIGMOD**) [[paper](https://dl.acm.org/doi/abs/10.1145/3318464.3389772)] 
 - <a name=""></a> Human-in-the-Loop Low-Shot Learning(**TNNLS**) [[paper](https://ieeexplore.ieee.org/document/9171485)] 
 - <a name=""></a> Human-in-the-loop differential subspace search in high-dimensional latent space(**TOG**) [[paper](https://dl.acm.org/doi/abs/10.1145/3386569.3392409)] 
-
 - <a name=""></a> A human-in-the-loop manufacturing control architecture for the next generation of production systems(**Journal of Manufacturing Systems**) [[paper](https://www.sciencedirect.com/science/article/pii/S0278612520300029)] 
 - <a name=""></a> A human-in-the-loop deep learning paradigm for synergic visual evaluation in children(**Neural Networks**) [[paper](https://www.sciencedirect.com/science/article/pii/S0893608019303259)] 
 - <a name=""></a> Human-in-the-Loop Control Using Euler Angles(**Journal of Intelligent & Robotic Systems **) [[paper](https://link.springer.com/article/10.1007/s10846-019-01058-2)] 
